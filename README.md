@@ -25,8 +25,7 @@ Ejercicio #1 Open Bootcamp
             <li>5</li>
             <li>5</li>
         </ol>
-
-    </div>
+     </div>
     
 </body>
 </html>
