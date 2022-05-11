@@ -27,6 +27,6 @@ Ejercicio #1 Open Bootcamp
         </ol>
 
     </div>
-    <div></div>
+    
 </body>
 </html>
